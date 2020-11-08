@@ -6,4 +6,4 @@ server:
 
 logging:
   file:
-    path: /opt/logs/spring-boot-with-jenkins-maven-sample/spring.log
+    path: /opt/logs/spring-boot-with-jenkins-maven-sample/
