@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: spring-boot-with-jenkins-maven-sample-uat-environment
+server:
+  port: 8001

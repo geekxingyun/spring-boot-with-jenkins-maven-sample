@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: spring-boot-with-jenkins-maven-sample-test-environment
+server:
+  port: 7001

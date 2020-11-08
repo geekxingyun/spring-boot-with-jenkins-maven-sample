@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: spring-boot-with-jenkins-maven-sample-prod-environment
+server:
+  port: 9001
