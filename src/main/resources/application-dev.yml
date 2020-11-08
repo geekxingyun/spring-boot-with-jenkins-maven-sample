@@ -3,3 +3,7 @@ spring:
     name: spring-boot-with-jenkins-maven-sample-dev-environment
 server:
   port: 6001
+
+logging:
+  file:
+    path: /opt/logs/spring-boot-with-jenkins-maven-sample/spring.log
